@@ -18,4 +18,6 @@ elif m == 'l' :
 else :
     print('Eror!')
     
+
 print('Your Weight is ' , (Weight) ,(m))
+print('Thank you 🩵')
